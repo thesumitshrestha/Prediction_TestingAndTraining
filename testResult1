@@ -1,0 +1,28 @@
+>> ex4
+
+Initializing Neural Network Parameters ...
+
+Training Neural Network...
+Iteration   
+  5 | Cost: 1.324658e+03
+>> test
+ans =  45.197
+>> ex4
+
+Initializing Neural Network Parameters
+ ...
+
+Training Neural Network...
+Iteration    20 | Cost: 4.282773e+01
+>> 
+test
+ans =  51.811
+>> ex4
+
+Initializing Neural Network Parameters ...
+
+Training Neural Network...
+Iteration 
+   40 | Cost: 2.353050e+01
+>> test
+ans =  49.764
